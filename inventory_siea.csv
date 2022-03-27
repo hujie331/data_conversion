@@ -1,0 +1,480 @@
+Site,Device Type,Name,IP
+Adelaide,Console Server,console01.corp.adl,172.19.235.10
+Adelaide,Core Switch,AUSIEADLSW01,172.19.235.40
+Adelaide,Firewall,fw01.corp.adl ,172.19.235.35
+Adelaide,Firewall,fw02.corp.adl ,172.19.235.36
+Adelaide,Management Switch,mgmtsw01.corp.adl,172.19.235.1
+Adelaide,VPN server,,10.126.139.10
+Adelaide,Ruckus,ausieadlzd02,10.126.128.62
+Adelaide,Ruckus,ausieadlzd01,10.126.128.61
+Aliso Viejo,Access Switch,acs01.corp.av1.gaikai.biz,10.126.16.27
+Aliso Viejo,Access Switch,acs02.corp.av1.gaikai.biz,10.126.16.28
+Aliso Viejo,Access Switch,acs03.corp.av1.gaikai.biz,10.126.16.36
+Aliso Viejo,Access Switch,rsw03.corp.av1.gaikai.biz,10.126.16.59
+Aliso Viejo,Access Switch,poe01.corp.av1.gaikai.biz,10.126.16.60
+Aliso Viejo,Distribution,dist01.corp.av1.gaikai.biz,10.126.16.26
+Aliso Viejo,Distribution,dist02.corp.av1.gaikai.biz,10.126.16.29
+Aliso Viejo,Lab Switch,labsw01.corp.av1.gaikai.biz,10.126.16.51
+Aliso Viejo,Lab Switch,labsw02.corp.av1.gaikai.biz,10.126.16.42
+Aliso Viejo,Lab Switch,labsw03.corp.av1.gaikai.biz,10.126.16.35
+Aliso Viejo,Lab Switch,labsw04.corp.av1.gaikai.biz,10.126.16.43
+Aliso Viejo,Lab Switch,labsw05.corp.av1.gaikai.biz,10.126.16.53
+Aliso Viejo,Lab Switch,labsw06.corp.av1.gaikai.biz,10.126.16.58
+Aliso Viejo,Lab Switch,labsw07.corp.av1.gaikai.biz,10.126.16.52
+Aliso Viejo,Lab Switch,labsw08.corp.av1.gaikai.biz,10.126.16.69
+Austin,Console Server,console01.corp.au01,172.19.233.10
+Austin,Access Switch,access01.b1f1.corp.au01,172.19.233.51
+Austin,Access Switch,access02.b1f1.corp.au01,172.19.233.52
+Austin,Access Switch,access03.b1f1.corp.au01,172.19.233.53
+Austin,Access Switch,access04.b1f1.corp.au01,172.19.233.54
+Austin,Core Switch,core01.b1f1.corp.au01,172.19.233.21
+Austin,Core Switch,core02.b1f1.corp.au01,172.19.233.22
+Austin,Firewall,fw01.corp.au01,172.19.233.35
+Austin,Firewall,fw02.corp.au02,172.19.233.36
+Austin,Management Switch,mgmtsw01.corp.au01,172.19.233.1
+Bentonville,Console Server,ar.corp.console01,172.27.16.37
+Bentonville,Core Switch,scea-ark-core1,172.27.16.36
+Bentonville,Voice Router,prdmgtarkvgw01,172.27.16.35
+Bentonville,Firewall,scea-ark-pa500,172.27.16.40
+Berlin,Access Switch,hostsw01.corp.bera.gaikai.biz,10.126.64.50
+Berlin,Access Switch,hostsw02.corp.bera.gaikai.biz,10.126.64.51
+Berlin,Access Switch,hostsw03.corp.bera.gaikai.biz,10.126.64.52
+Berlin,Access Switch,hostsw04.corp.bera.gaikai.biz,10.126.64.53
+Berlin,Access Switch,hostsw05.corp.bera.gaikai.biz,10.126.64.54
+Berlin,Firewall,corpfw01.bera.gaikai.biz,10.126.64.20
+Berlin,Console Server,console01.corp.ber,10.126.64.22
+Berlin,Firewall,corpfw02.bera.gaikai.biz,10.126.64.21
+Berlin,Firewall,fw01.corp.be01,10.126.64.96
+Berlin,Firewall,fw02.corp.be01,10.126.64.97
+Berlin,Wireless controller - Aruba,wlc01,10.126.64.60
+Berlin,Wireless controller - Aruba,wlc02,10.126.64.61
+Brazil,Core Switch,net-bra-core,172.27.130.146
+Campbell,Console Server,console.mdf.cb01,172.27.33.12
+Campbell,Core Switch,core01.mdf.cb01,172.27.33.50
+Campbell,Access Switch,access02.mdf.cb01,172.27.33.11
+Campbell,Access Switch 10gb,access01.mdf.cb01,172.27.33.51
+Campbell,Firewall,fw01.mdf.cb01,172.27.33.10
+Hong Kong,Firewall,,43.80.10.7
+Hong Kong,Firewall,,43.80.10.8
+Howard Hughes,VM Server - iDrac,,172.19.228.5
+Howard Hughes,VM Server - esxi,,172.19.228.6
+Japan,VPN server,,10.84.255.241
+Japan,VPN server,,10.84.255.242
+Korea,Firewall,,43.76.64.249
+Korea,Firewall,,43.76.64.250
+Las Vegas,Firewall,lvc-sec-prpa01,10.208.54.154
+Las Vegas,Firewall,lvc-sec-prpa02,10.208.54.155
+Las Vegas,Panorama Legacy,lvc-sec-prpamgmt01.sonynei.net,43.148.32.68
+Las Vegas,Router,lvs.rte.c8158-18,10.208.60.42
+Las Vegas,Router,lvs.rte.c8157-18,10.208.60.41
+LAXA,Access Switch,netsw01.corp.laxa.gaikai.biz,10.126.16.55
+LAXA,Access Switch,netsw02.corp.laxa.gaikai.biz,10.126.16.50
+LAXA,Core Switch,core01.corp.laxa.gaikai.biz,10.126.16.40
+LAXA,Core Switch,core02.corp.laxa.gaikai.biz,10.126.16.39
+LAXA,DMZ switch,dmz01.corp.laxa.gaikai.biz,10.126.16.54
+LAXA,DMZ switch,dmz02.corp.laxa.gaikai.biz,10.126.16.49
+LAXA,Edge Switch,edge01.corp.laxa.gaikai.biz,10.126.16.47
+LAXA,Edge Switch,edge02.corp.laxa.gaikai.biz,10.126.16.48
+LAXA,Firewall,fw01.corp.laxa,10.126.16.76
+LAXA,Firewall,fw02.corp.laxa,10.126.16.77
+LAXA,Firewall Legacy,corpfw01.corp.av1,10.126.16.20
+LAXA,Firewall Legacy,corpfw02.corp.av1,10.126.16.21
+LAXA,Rack Switch,sf01.corp.laxa.gaikai.biz,10.126.16.4
+LAXA,Rack Switch,sf02.corp.laxa.gaikai.biz,10.126.16.57
+LAXA,Rack Switch,rsw01.dev.laxa.gaikai.biz,10.126.16.62
+LAXA,Rack Switch,rsw02.dev.laxa.gaikai.biz,10.126.16.63
+LAXA,Rack Switch,rsw03.dev.laxa.gaikai.biz,10.126.16.64
+LAXA,Rack Switch,rsw04.dev.laxa.gaikai.biz,10.126.16.71
+LAXA,Rack Switch,rsw-a41.corp.laxa.gaikai.biz,10.126.16.44
+LAXA,VPN server,vpn01.corp.laxa,172.19.225.11
+LAXA,VPN server,vpn02.corp.laxa,172.19.225.12
+Los Angeles,Access Switch,access01.b1f10.corp.la01,172.19.228.27
+Los Angeles,Access Switch,access02.b1f10.corp.la01,172.19.228.28
+Los Angeles,Access Switch,access03.b1f10.corp.la01,172.19.228.29
+Los Angeles,Access Switch,access04.b1f10.corp.la01,172.19.228.30
+Los Angeles,Access Switch,access05.b1f10.corp.la01,172.19.228.38
+Los Angeles,Access Switch,access06.b1f10.corp.la01,172.19.228.39
+Los Angeles,Access Switch,access04.b1f11.corp.la01,172.19.228.50
+Los Angeles,Access Switch,access03.b1f11.corp.la01,172.19.228.51
+Los Angeles,Access Switch,access02.b1f11.corp.la01,172.19.228.52
+Los Angeles,Access Switch,access01.b1f11.corp.la01,172.19.228.53
+Los Angeles,Console Server,console01.corp.la01,172.19.228.10
+Los Angeles,Console Server,console01.corp.la01,172.19.228.10
+Los Angeles,Console Server,console02.corp.la01,172.19.228.11
+Los Angeles,Core Switch,coresw01.corp.la01,172.19.228.21
+Los Angeles,Core Switch,coresw02.corp.la01,172.19.228.22
+Los Angeles,Distribution,dist01.corp.la01,172.19.228.25
+Los Angeles,Distribution,dist02.corp.la01,172.19.228.26
+Los Angeles,Edge Switch,edge01.corp.la01,172.19.228.23
+Los Angeles,Edge Switch,edge02.corp.la01,172.19.228.24
+Los Angeles,Firewall,fw01.corp.la01,172.19.228.35
+Los Angeles,Firewall,fw02.corp.la01,172.19.228.36
+Los Angeles,Management Switch,mgmtsw01.corp.la01,172.19.228.1
+Los Angeles,Management Switch,mgmtsw02.corp.la01,172.19.228.2
+Los Angeles,Management Switch,mgmtsw03.b1f10corp.la01,172.19.228.3
+Los Angeles,Server Switch,svrsw01.corp.la01,172.19.228.45
+Los Angeles,Server Switch,svrsw02.corp.la01,172.19.228.46
+Los Angeles,Pulse Appliance,pps.la01.infra.sie.sony.com,172.19.228.55
+LAXA - Transit,Firewall,,172.19.225.135
+Madison,Access Switch,access01.corp.mad,172.19.242.28
+Madison,Access Switch,access02.corp.mad,172.19.242.29
+Madison,Access Switch,access03.corp.mad,172.19.242.30
+Madison,Access Switch,access04.corp.mad,172.19.242.31
+Madison,Access Switch,access05.corp.mad,172.19.242.32
+Madison,Access Switch,access06.corp.mad,172.19.242.33
+Madison,Access Switch,access07.corp.mad,172.19.242.37
+Madison,Access Switch,access08.corp.mad,172.19.242.38
+Madison,Access Switch,sna-lab-sw01.mad,172.19.242.43
+Madison,Access Switch,sna-svr-sw01.mad,172.19.242.39
+Madison,Access Switch,sna-svr-sw02.mad,172.19.242.40
+Madison,Access Switch,sna-svr-sw03.mad,172.19.242.41
+Madison,Access Switch,sna-svr-sw04.mad,172.19.242.42
+Madison,Console Server,console01.corp.mad,172.19.242.10
+Madison,Core Switch,core01.corp.mad,172.19.242.21
+Madison,Core Switch,core02.corp.mad,172.19.242.22
+Madison,Edge Switch,edge01.corp.mad,172.19.242.23
+Madison,Edge Switch,edge02.corp.mad,172.19.242.24
+Madison,Firewall,fw01.corp.mad,172.19.242.35
+Madison,Firewall,fw02.corp.mad,172.19.242.36
+Madison,Management Switch,mgmtsw01.corp.mad,172.19.242.1
+Madison,Server Switch,net-svcs01.corp.mad,172.19.242.27
+Madison,PDU,pdua.r00.f5idf.corp.mad,172.19.242.231
+Madison,PDU,pdub.r00.f5idf.corp.mad,172.19.242.230
+Madison,PDU,pdua.r01.f5idf.corp.mad,172.19.242.233
+Madison,PDU,pdub.r01.f5idf.corp.mad,172.19.242.232
+Madison,PDU,pdua.r02.f5idf.corp.mad,172.19.242.235
+Madison,PDU,pdub.r02.f5idf.corp.mad,172.19.242.234
+Madison,PDU,pdua.r03.f5idf.corp.mad,172.19.242.237
+Madison,PDU,pdub.r03.f5idf.corp.mad,172.19.242.236
+Madison,PDU,pdua.r04.f5idf.corp.mad,172.19.242.239
+Madison,PDU,pdub.r04.f5idf.corp.mad,172.19.242.238
+Madison,UPS,upsa.r00.f5idf.corp.mad,172.19.242.240
+Madison,UPS,upsb.r00.f5idf.corp.mad,172.19.242.241
+Madison,UPS,upsa.r01.f5idf.corp.mad,172.19.242.242
+Madison,UPS,upsb.r01.f5idf.corp.mad,172.19.242.243
+Madison,UPS,upsa.r02.f5idf.corp.mad,172.19.242.244
+Madison,UPS,upsb.r02.f5idf.corp.mad,172.19.242.245
+Madison,UPS,upsa.r03.f5idf.corp.mad,172.19.242.246
+Madison,UPS,upsb.r03.f5idf.corp.mad,172.19.242.247
+Madison,UPS,upsa.r04.f5idf.corp.mad,172.19.242.248
+Madison,UPS,upsb.r04.f5idf.corp.mad,172.19.242.249
+Rancho Bernardo,Access Switch,sd1.swi.c0101,172.19.231.41
+Rancho Bernardo,Access Switch,sd1.swi.c0402,172.19.231.42
+Rancho Bernardo,Access Switch,sd1.swi.c0403,172.19.231.43
+Rancho Bernardo,Access Switch,sd1.swi.c0404,172.19.231.44
+Rancho Bernardo,Access Switch,sd1.swi.c0406,172.19.231.45
+Rancho Bernardo,Access Switch,sd1.swi.c0502,172.19.231.46
+Rancho Bernardo,Access Switch,sd1.swi.c0503,172.19.231.47
+Rancho Bernardo,Access Switch,sd1.swi.c0504,172.19.231.48
+Rancho Bernardo,Access Switch,sd1.swi.c0505,172.19.231.49
+Rancho Bernardo,Access Switch,sd1.swi.c0506,172.19.231.50
+Rancho Bernardo,Access Switch,sd1.swi.c0802,172.19.231.51
+Rancho Bernardo,Access Switch,sd1.swi.c0803,172.19.231.52
+Rancho Bernardo,Access Switch,sd1.swi.c0804,172.19.231.53
+Rancho Bernardo,Access Switch,sd1.swi.c0806,172.19.231.54
+Rancho Bernardo,Access Switch,sd1.swi.windandsea,172.19.231.55
+Rancho Bernardo,Console Server,console01.corp.sd01,172.19.231.10
+Rancho Bernardo,Core Switch,core01.corp.rb01,172.19.231.21
+Rancho Bernardo,Core Switch,core02.corp.rb01,172.19.231.22
+Rancho Bernardo,Decom,sd1.swc.c01,172.19.231.70
+Rancho Bernardo,Distribution,dist01.a09.corp.rb01,172.19.231.25
+Rancho Bernardo,Distribution,dist02.a09.corp.rb01,172.19.231.26
+Rancho Bernardo,Edge Switch,edge01.corp.rb01,172.19.231.23
+Rancho Bernardo,Edge Switch,edge02.corp.rb01,172.19.231.24
+Rancho Bernardo,Firewall,fw01.corp.rb01,172.19.231.35
+Rancho Bernardo,Firewall,fw02.corp.rb01,172.19.231.36
+Rancho Bernardo,Distribution,dist03.b08.corp.rb01,172.19.231.37
+Rancho Bernardo,Distribution,dist04.b08.corp.rb02,172.19.231.38
+Rancho Bernardo,Server Switch,leaf01-1gb.b08.corp.rb01,172.19.231.39
+Rancho Bernardo,Server Switch,leaf02-1gb.b09.corp.rb01,172.19.231.40
+Rancho Bernardo,Management Switch,mgmtsw01.corp.rb01,172.19.231.1
+Rancho Bernardo,Decom,sd1.swo.c01,172.19.231.68
+Rancho Bernardo,Decom,sd1.swo.c02,172.19.231.69
+Rancho Bernardo,Decom,sd1.swr.ca01-44,172.19.231.56
+Rancho Bernardo,Decom,sd1.swr.ca02-44,172.19.231.57
+Rancho Bernardo,Decom,sd1.swr.ca03-44,172.19.231.58
+Rancho Bernardo,Decom,sd1.swr.ca05-43,172.19.231.59
+Rancho Bernardo,Decom,sd1.swr.ca07-21,172.19.231.60
+Rancho Bernardo,Decom,sd1.swr.cb03-43,172.19.231.61
+Rancho Bernardo,Decom,sd1.swr.cb05-21,172.19.231.62
+Rancho Bernardo,Decom,sd1.swr.cb05-22,172.19.231.63
+Rancho Bernardo,Decom,sd1.swr.cb05-24,172.19.231.64
+Rancho Bernardo,Decom,sd1.swr.cb05-25,172.19.231.65
+Rancho Bernardo,Decom,sd1.swr.cb07-41,172.19.231.66
+Rancho Bernardo,Decom,sd1.swr.cb07-43,172.19.231.67
+Rancho Bernardo,VM Server - iDrac,,172.19.231.5
+Rancho Bernardo,VM Server - esxi,,172.19.231.6
+Rancho Bernardo,VM Server - esxi,,172.19.231.8
+Rancho Bernardo,VM Server - iDrac,,172.19.231.7
+Rancho Bernardo,Decom,access01.b09.corp.b01,172.19.231.71
+Rancho Bernardo,Decom,access02.b09.corp.b01,172.19.231.72
+Rancho Bernardo,Decom,access01.b08.corp.b01,172.19.231.73
+Rancho Bernardo,Decom,access02.b08.corp.b01,172.19.231.74
+Rancho Bernardo,Access Switch,leaf05-1gb.b07.corp.rb01,172.19.231.75
+Rancho Bernardo,Access Switch,leaf04-1gb.b05.corp.rb01,172.19.231.76
+Rancho Bernardo,Decom,leaf03-1gb.b03.corp.rb01,172.19.231.77
+Rancho Bernardo,Decom,leaf09-1gb.a05.corp.rb01,172.19.231.79
+Rancho Bernardo,Access Switch,leaf08-1gb.a03.corp.rb01,172.19.231.80
+Rancho Bernardo,Access Switch,leaf07-1gb.a02.corp.rb01,172.19.231.81
+Rancho Bernardo,Access Switch,leaf10-1gb.a07.corp.rb01,172.19.231.82
+Rancho Bernardo,Pulse appliance,pps01-int.sgcn.rb01.infra.sie.sony.com,172.19.231.100
+Rancho Bernardo,Pulse appliance,pps02-int.sgcn.rb01.infra.sie.sony.com,172.19.231.101
+San Francisco,Access Switch,access01.f10idf.sf02,172.19.241.46
+San Francisco,Access Switch,access02.f10idf.sf02,172.19.241.47
+San Francisco,Access Switch,access03.f10idf.sf02,172.19.241.48
+San Francisco,Access Switch,access04.f10idf.sf02,172.19.241.49
+San Francisco,Access Switch,access05.f10idf.sf02,172.19.241.50
+San Francisco,Access Switch,access06.f10idf.sf02,172.19.241.80
+San Francisco,Access Switch,access07.f10idf.sf02,172.19.241.83
+San Francisco,Access Switch,access01.f3idf.sf02,172.19.241.37
+San Francisco,Access Switch,access02.f3idf.sf02,172.19.241.38
+San Francisco,Access Switch,access03.f3idf.sf02,172.19.241.39
+San Francisco,Access Switch,access04.f3idf.sf02,172.19.241.40
+San Francisco,Access Switch,access05.f3idf.sf02,172.19.241.76
+San Francisco,Access Switch,access06.f3idf.sf02,172.19.241.77
+San Francisco,Access Switch,access07.f3idf.sf02,172.19.241.81
+San Francisco,Access Switch,access01.f9idf.sf02,172.19.241.41
+San Francisco,Access Switch,access02.f9idf.sf02,172.19.241.42
+San Francisco,Access Switch,access03.f9idf.sf02,172.19.241.43
+San Francisco,Access Switch,access04.f9idf.sf02,172.19.241.44
+San Francisco,Access Switch,access05.f9idf.sf02,172.19.241.45
+San Francisco,Access Switch,access06.f9idf.sf02,172.19.241.78
+San Francisco,Access Switch,access07.f9idf.sf02,172.19.241.82
+San Francisco,Console Server,console.f10mdf.sf02,172.19.241.17
+San Francisco,Console Server,console.f3idf.sf02,172.19.241.19
+San Francisco,Console Server,console.f3mdf.sf02,172.19.241.20
+San Francisco,Console Server,console.f9mdf.sf02,172.19.241.18
+San Francisco,Core Switch,core01.f3mdf.sf02,172.19.241.21
+San Francisco,Core Switch,core02.f3mdf.sf02,172.19.241.22
+San Francisco,Distribution,dist01.f3idf.sf02,172.19.241.29
+San Francisco,Distribution,dist02.f3idf.sf02,172.19.241.30
+San Francisco,Distribution,dist01.f9idf.sf02,172.19.241.31
+San Francisco,Distribution,dist02.f9idf.sf02,172.19.241.32
+San Francisco,Distribution,dist01.f10idf.sf02,172.19.241.33
+San Francisco,Distribution,dist02.f10idf.sf02,172.19.241.34
+San Francisco,Edge Switch,edge01.f3mdf.sf02,172.19.241.23
+San Francisco,Edge Switch,edge02.f3mdf.sf02,172.19.241.24
+San Francisco,Firewall,fw01.f3mdf.sf02,172.19.241.35
+San Francisco,Firewall,fw02.f3mdf.sf02,172.19.241.36
+San Francisco,Management Switch,mgmt01.f3mdf.sf02,172.19.241.1
+San Francisco,Management Switch,mgmt02.f3mdf.sf02,172.19.241.2
+San Francisco,Management Switch,mgmt03.f3idf.sf02,172.19.241.3
+San Francisco,Management Switch,mgmt04.f9idf.sf02,172.19.241.4
+San Francisco,Management Switch,mgmt05.f10idf.sf02,172.19.241.5
+San Francisco,QA Lab Access Switch,access.dfa1.sf02,172.19.241.53
+San Francisco,QA Lab Access Switch,access.dfa2.sf02,172.19.241.54
+San Francisco,QA Lab Access Switch,access.dfa3.sf02,172.19.241.55
+San Francisco,QA Lab Access Switch,access.dfa4.sf02,172.19.241.56
+San Francisco,QA Lab Access Switch,access.dfa5.sf02,172.19.241.57
+San Francisco,QA Lab Access Switch,access.dfa6.sf02,172.19.241.58
+San Francisco,QA Lab Access Switch,access.dfa7.sf02,172.19.241.59
+San Francisco,QA Lab Access Switch,access.dfb1.sf02,172.19.241.60
+San Francisco,QA Lab Access Switch,access.dfb2.sf02,172.19.241.61
+San Francisco,QA Lab Access Switch,access.dfb3.sf02,172.19.241.62
+San Francisco,QA Lab Access Switch,access.dfb4.sf02,172.19.241.63
+San Francisco,QA Lab Access Switch,access.dfb5.sf02,172.19.241.64
+San Francisco,QA Lab Access Switch,access.dfb6.sf02,172.19.241.65
+San Francisco,QA Lab Access Switch,access.dfb7.sf02,172.19.241.66
+San Francisco,QA Lab Access Switch,access.dfb8.sf02,172.19.241.67
+San Francisco,QA Lab Access Switch,access.dfc1.sf02,172.19.241.68
+San Francisco,QA Lab Access Switch,access.dfc2.sf02,172.19.241.69
+San Francisco,QA Lab Access Switch,access.dfc3.sf02,172.19.241.70
+San Francisco,QA Lab Access Switch,access.dfc4.sf02,172.19.241.71
+San Francisco,QA Lab Access Switch,access.dfc5.sf02,172.19.241.72
+San Francisco,QA Lab Access Switch,access.dfc6.sf02,172.19.241.73
+San Francisco,QA Lab Access Switch,access.dfc7.sf02,172.19.241.74
+San Francisco,QA Lab Access Switch,access.dfc8.sf02,172.19.241.75
+San Francisco,QA Lab Distribution,dist01df.f3mdf.sf02,172.19.241.51
+San Francisco,QA Lab Distribution,dist02df.f3mdf.sf02,172.19.241.52
+San Francisco,Server Switch,access01.f3mdf.sf02,172.19.241.25
+San Francisco,Server Switch,access02.f3mdf.sf02,172.19.241.26
+San Francisco,Server Switch,access03.f3mdf.sf02,172.19.241.27
+San Francisco,Server Switch,access04.f3mdf.sf02,172.19.241.28
+San Francisco,VM Server - iDrac,,Needs Re-IP to 172.19.241.5
+San Francisco,VM Server - esxi,,Needs RE-IP to 172.19.241.6
+San Mateo,Access Switch,scea-bp-b01-f01-data1,160.33.125.16
+San Mateo,Access Switch,scea-bp-b01-f01-data2,160.33.125.17
+San Mateo,Access Switch,scea-bp-b01-f01-mgig,160.33.125.35
+San Mateo,Access Switch,scea-bp-b01-f01-poe,160.33.125.15
+San Mateo,Access Switch,sma.swa.2ndfl.c01,160.33.125.19
+San Mateo,Access Switch,sma.swa.2ndfl.c02,160.33.125.20
+San Mateo,Access Switch,sma.swa.2ndfl.c03,160.33.125.21
+San Mateo,Access Switch,sma.swa.2ndfl.c04,160.33.125.22
+San Mateo,Access Switch,sma.swa.3rdfl.c01,160.33.125.23
+San Mateo,Access Switch,sma.swa.3rdfl.c02,160.33.125.24
+San Mateo,Access Switch,sma.swa.3rdfl.c03,160.33.125.25
+San Mateo,Access Switch,sma.swa.3rdfl.c04,160.33.125.26
+San Mateo,Access Switch,sma.swa.3rdfl.c05,160.33.125.36
+San Mateo,Access Switch,scea-bp-b01-f04-data1,160.33.125.28
+San Mateo,Access Switch,scea-bp-b01-f04-data2,160.33.125.29
+San Mateo,Access Switch,scea-bp-b01-f04-mgig,160.33.125.40
+San Mateo,Access Switch,scea-bp-b01-f04-poe,160.33.125.27
+San Mateo,Access Switch,scea-bp-b01-f05-data1,160.33.125.32
+San Mateo,Access Switch,scea-bp-b01-f05-data2,160.33.125.33
+San Mateo,Access Switch,scea-bp-b01-f05-mgig,160.33.125.41
+San Mateo,Access Switch,scea-bp-b01-f05-poe,160.33.125.31
+San Mateo,Access Switch,scea-bp-b02-f01-data1,160.33.126.16
+San Mateo,Access Switch,scea-bp-b02-f01-data2,160.33.126.17
+San Mateo,Access Switch,scea-bp-b02-f01-poe,160.33.126.15
+San Mateo,Access Switch,scea-bp-b02-f02-data1,160.33.126.20
+San Mateo,Access Switch,scea-bp-b02-f02-data2,160.33.126.21
+San Mateo,Access Switch,scea-bp-b02-f02-poe,160.33.126.19
+San Mateo,Access Switch,scea-bp-b02-f03-data1,160.33.126.24
+San Mateo,Access Switch,scea-bp-b02-f03-data2,160.33.126.25
+San Mateo,Access Switch,scea-bp-b02-f03-poe,160.33.126.23
+San Mateo,Access Switch,scea-bp-b02-f04-data1,160.33.126.28
+San Mateo,Access Switch,scea-bp-b02-f04-data2,160.33.126.29
+San Mateo,Access Switch,scea-bp-b02-f04-mgig,160.33.126.39
+San Mateo,Access Switch,scea-bp-b02-f04-poe,160.33.126.27
+San Mateo,Access Switch,scea-bp-b02-f05-data1,160.33.126.32
+San Mateo,Access Switch,scea-bp-b02-f05-data2,160.33.126.33
+San Mateo,Access Switch,scea-bp-b02-f05-poe,160.33.126.31
+San Mateo,Access Switch,scea-bp-b03-f01-data1,160.33.127.16
+San Mateo,Access Switch,scea-bp-b03-f01-data2,160.33.127.17
+San Mateo,Access Switch,scea-bp-b03-f01-data3,160.33.127.18
+San Mateo,Access Switch,scea-bp-b03-f01-poe,160.33.127.15
+San Mateo,Access Switch,scea-bp-b03-f01-mgig,160.33.127.14
+San Mateo,Access Switch,scea-bp-b03-f02-data1,160.33.127.20
+San Mateo,Access Switch,scea-bp-b03-f02-data2,160.33.127.21
+San Mateo,Access Switch,scea-bp-b03-f02-poe,160.33.127.19
+San Mateo,Access Switch,scea-bp-b03-f03-data1,160.33.127.24
+San Mateo,Access Switch,scea-bp-b03-f03-data2,160.33.127.25
+San Mateo,Access Switch,scea-bp-b03-f03-poe,160.33.127.23
+San Mateo,Access Switch,scea-bp-b03-f04-data1,160.33.127.28
+San Mateo,Access Switch,scea-bp-b03-f04-data2,160.33.127.29
+San Mateo,Access Switch,scea-bp-b03-f04-poe,160.33.127.27
+San Mateo,Access Switch,scea-bp-b03-f05-data1,160.33.127.32
+San Mateo,Access Switch,scea-bp-b03-f05-data2,160.33.127.33
+San Mateo,Access Switch,scea-bp-b03-f05-poe,160.33.127.31
+San Mateo,Access Switch,SCEA-BP-GA-F01-POE,160.33.124.15
+San Mateo,Access Switch,access01.b2f2idf.bp01,160.33.126.103
+San Mateo,Access Switch,access02.b2f2idf.bp01,160.33.126.104
+San Mateo,Access Switch,access03.b2f2idf.bp01,160.33.126.105
+San Mateo,Access Switch,access01.b2f3idf.bp01,160.33.126.108
+San Mateo,Access Switch,access02.b2f3idf.bp01,160.33.126.109
+San Mateo,Access Switch,access03.b2f3idf.bp01,160.33.126.110
+San Mateo,Console Server,Console01.dc.corp.smbp,160.33.124.235
+San Mateo,Console Server,console01.corp.bp01,172.19.226.20
+San Mateo,Console Server,console02.b4.bp01,172.19.226.19
+San Mateo,Core Switch,core01.corp.bp01,172.19.226.21
+San Mateo,Core Switch,core02.corp.bp01,172.19.226.22
+San Mateo,Core Switch Legacy,BP-B02-CORE1,160.33.124.4
+San Mateo,Core Switch Legacy,BP-B02-CORE2,160.33.124.5
+San Mateo,Distribution,dist01.corp.bp01,172.19.226.25
+San Mateo,Distribution,dist02.corp.bp01,172.19.226.26
+San Mateo,Distribution,scea-bp-b01-ds01,160.33.125.4
+San Mateo,Distribution,scea-bp-b01-ds02,160.33.125.5
+San Mateo,Distribution,scea-bp-b02-ds01,160.33.126.4
+San Mateo,Distribution,scea-bp-b02-ds02,160.33.126.5
+San Mateo,Distribution,scea-bp-b03-ds01,160.33.127.4
+San Mateo,Distribution,scea-bp-b03-ds02,160.33.127.5
+San Mateo,Distribution,dist01.b4.bp01,172.19.226.27
+San Mateo,Distribution,dist02.b4.bp01,172.19.226.28
+San Mateo,Distribution,dist01.b2f2idf.bp01,160.33.126.101
+San Mateo,Distribution,dist02.b2f2idf.bp01,160.33.126.102 
+San Mateo,Distribution,dist01.b2f3idf.bp01,160.33.126.106
+San Mateo,Distribution,dist02.b2f3idf.bp01,160.33.126.107
+San Mateo,Edge Switch,edge01.corp.bp01,172.19.226.23
+San Mateo,Edge Switch,edge02.corp.bp01,172.19.226.24
+San Mateo,Firewall,fw01.corp.bp01,172.19.226.35
+San Mateo,Firewall,fw02.corp.bp01,172.19.226.36
+San Mateo,Management Switch,mgmtsw01.corp.bp01,172.19.226.1
+San Mateo,Management Switch,mgmtsw02.b4.bp01,172.19.226.2
+San Mateo,Server Switch,SCEA-BP-B02-SVR-C1,160.33.126.35
+San Mateo,Server Switch,access01.b1.bp01,172.19.226.43
+San Mateo,Server Switch,access01.c1.bp01,172.19.226.46
+San Mateo,Server Switch,access02.b2.bp01,172.19.226.44
+San Mateo,Server Switch,access02.c2.bp01,172.19.226.47
+San Mateo,Server Switch,access03.b6.bp01,172.19.226.45
+San Mateo,Server Switch,access03.c6.bp01,172.19.226.48
+San Mateo,Wireless Controller,SCEA-BP-B02-SVR-WLC1,160.33.124.100
+San Mateo,VM Server - iDrac,,172.19.226.5
+San Mateo,VM Server - esxi,,172.19.226.6
+San Mateo,Pulse Appliance,pps01.bp01.infra.sie.sony.com,172.19.226.7
+San Mateo,Pulse Appliance,pps02.bp01.infra.sie.sony.com,172.19.226.8
+SJCA,VM Server - iDrac,net-test-vm1.corp.sjca idrac,172.19.195.5
+SJCA,VM Server - esxi,net-test-vm1.corp.sjca esxi,172.19.195.6
+SJCA,VM Server - iDrac,net-test-vm2.corp.sjca idrac,172.19.195.7
+SJCA,VM Server - esxi,net-test-vm2.corp.sjca esxi,172.19.195.8
+SJCA,Management Switch,mgmtsw01.corp.sjca,172.19.195.1
+SJCA,Management Switch,mgmtsw02.corp.sjca,172.19.195.10
+SJCA,Console Server,cons01.corp.sjca,172.19.195.20
+SJCA,Console Server,cons02.corp.sjca,172.19.195.46
+SJCA,Core Switch,coresw01.corp.sjca,172.19.195.21
+SJCA,Core Switch,coresw02.corp.sjca,172.19.195.22
+SJCA,Edge Switch,edgesw01.corp.sjca,172.19.195.23
+SJCA,Edge Switch,edgesw02.corp.sjca,172.19.195.24
+SJCA,Edge Switch,edgesw03.corp.sjca,172.19.195.32
+SJCA,Edge Switch,edgesw04.corp.sjca,172.19.195.33
+SJCA,Distribution,distsw01.corp.sjca,172.19.195.25
+SJCA,Distribution,distsw02.corp.sjca,172.19.195.26
+SJCA,Access Switch,leaf-access01.corp.sjca,172.19.195.27
+SJCA,Access Switch,leaf-access02.corp.sjca,172.19.195.28
+SJCA,Access Switch,leaf-access03.corp.sjca,172.19.195.48
+SJCA,Access Switch,leaf-access04.corp.sjca,172.19.195.49
+SJCA,Access Switch,leaf-access05.corp.sjca,172.19.195.52
+SJCA,Access Switch,leaf-access06.corp.sjca,172.19.195.53
+SJCA,Access Switch,leaf-access07.corp.sjca,172.19.195.58
+SJCA,Access Switch,leaf-access08.corp.sjca,172.19.195.59
+SJCA,Access Switch,access01.corp.sjca,172.19.195.29
+SJCA,Access Switch,access02.corp.sjca,172.19.195.30
+SJCA,Access Switch,access03.corp.sjca,172.19.195.31
+SJCA,Firewall,fw01.corp.sjca,172.19.195.35
+SJCA,Firewall,fw02.corp.sjca,172.19.195.36
+SJCA,Meraki,Cisco-Meraki-MX450-SJCA,172.31.16.179
+SJCA,Meraki,Cisco-Meraki-MX100-SJCA,172.31.16.178
+SJCA,Infoblox,sjcablox.playstation.sony.com,172.31.24.53
+SJCA,VPN License server,vpn-license.corp.sjca,172.31.24.10
+SJCA,ISE,ise-pan01-corp-sjca,172.31.24.100
+SJCA,VM Server,prdnetgns301.am.sony.com,172.31.20.45
+SJCA,VM Server,prdmgtslr01,172.31.21.8
+SJCA,Spare Switch,spsw03,172.19.195.47
+SJCA,Spare Switch,spsw04,172.19.195.37
+SJCA,Spare Switch,spsw05,172.19.195.38
+SJCA,Spare Switch,spsw06,172.19.195.39
+SJCA - Pop,Access Switch,access01.sgcn.sjca,172.19.195.40
+SJCA - Pop,Access Switch,access02.sgcn.sjca,172.19.195.41
+SJCA - Pop,Access Switch,access03.sgcn.sjca,172.19.195.42
+SJCA - Pop,Access Switch,access04.sgcn.sjca,172.19.195.43
+SJCA - Pop,Panorama,panorama01.sgcn.sjca,172.19.195.44
+SJCA - Pop,Panorama,panorama02.sgcn.sjca,172.19.195.45
+SJCA - Pop,VPN server,vpn1.sgcn.sjca,172.19.195.50
+SJCA - Pop,VPN server,vpn2.sgcn.sjca,172.19.195.51
+SJCA - Pop,NAC,nac1.sgcn.sjca,172.19.195.54
+SJCA - Pop,NAC,nac2.sgcn.sjca,172.19.195.55
+SJCA - Pop,Firewall,pan-id-fw01.sgcn.sjca,172.19.195.56
+SJCA - Pop,Firewall,pan-id-fw02.sgcn.sjca,172.19.195.57
+SJCA - Transit,Firewall,,172.19.195.63
+SJCA - Transit,Firewall,,172.19.195.64
+SJCA - Transit,Edge Switch,,172.19.195.61
+SJCA - Transit,Edge Switch,,172.19.195.62
+Taiwan,Firewall,,43.70.30.234
+Taiwan,Firewall,,43.70.30.235
+Toronto,Core Switch,core01.mdf.to01,172.27.150.34
+Toronto,Firewall,fw01.mdf.to01,172.27.150.44
+Toronto,Firewall,fw02.mdf.to01,172.27.150.45
+Toronto,Console Server,console01.mdf.to01,172.27.150.230
+Toronto,Firewall,fw02.mdf.to01,172.27.150.45
+Waterloo,Access Switch,wtl.swr.c01,43.138.16.10
+Waterloo,Access Switch,wtl.swr.c02,43.138.16.11
+Waterloo,Access Switch,wtl.swr.c03,43.138.16.12
+Waterloo,Access Switch,wtl.swr.c04,43.138.16.13
+Waterloo,Console Server,wtl.oob.c01,43.138.16.5
+Waterloo,Core Switch,wtl.swc.c01,43.138.16.3
+Waterloo,Core Switch,wtl.swc.c02,43.138.16.4
+Waterloo,Firewall,wtc-sec-prpa01,43.138.16.198
+Waterloo,Firewall,wtc-sec-prpa02,43.138.16.199
+Waterloo,Access Switch,access02.mdf.wt01,172.19.236.38
+Waterloo,Wireless Controller,wtl-wlc-c01,43.138.16.6
+Waterloo,Console Server,console01.mdf.wt01,172.19.236.20
+Waterloo,Firewall,fw01.mdf.wt01,172.19.236.35
+Waterloo,Firewall,fw02.mdf.wt01,172.19.236.36
+Waterloo,Core Switch,core01.mdf.wt01,172.19.236.21
+Waterloo,Core Switch,core02.mdf.wt01,172.19.236.22
+Waterloo,Distribution,dist01.mdf.wt01,172.19.236.29
+Waterloo,Distribution,dist02.mdf.wt01,172.19.236.30
+Waterloo,Management Switch,mgmt01.mdf.wt01,172.19.236.1
+Waterloo,Access Switch,access01.mdf.wt01,172.19.236.37
+Waterloo,Server Switch,leaf01-1gb-rack1top,172.19.236.39
+Waterloo,Server Switch,leaf02-1gb-rack1bot,172.19.236.40
+Waterloo,Server Switch,eaf03 -1gb-rack2,172.19.236.31
